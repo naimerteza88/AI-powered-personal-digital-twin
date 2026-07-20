@@ -129,14 +129,6 @@ docker run --rm -p 8501:8501 \
 ```bash
 python -m unittest discover -s tests -v
 ```
-
-## How this differs from the reference project
-
-| Area | This project | Reference project |
-|---|---|---|
-| Interface | One Streamlit page | Next.js API and CLI |
-| Personal data | One JSON file | Resume, GitHub, Strava, and more |
-| Retrieval | Lightweight token scoring | Embeddings and vector store |
 | Model | Optional local Ollama | Full provider and prompt system |
 | Setup | Two Python packages | Larger TypeScript application |
 

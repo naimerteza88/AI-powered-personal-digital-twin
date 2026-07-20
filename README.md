@@ -1,7 +1,6 @@
 # Simple AI-Powered Personal Digital Twin
 
-A small, beginner-friendly personal digital twin inspired by
-[`digital.me`](https://github.com/rohitprasad-code/digital.me). Ask questions in
+A small, beginner-friendly personal digital twin. Ask questions in
 a Streamlit chat interface and receive answers grounded in an editable JSON
 profile.
 

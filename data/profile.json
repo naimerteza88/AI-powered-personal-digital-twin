@@ -1,0 +1,40 @@
+{
+  "name": "Your Name",
+  "headline": "Technology professional and lifelong learner",
+  "location": "Your City, Your Country",
+  "about": "I enjoy solving practical problems with technology and learning about artificial intelligence.",
+  "skills": [
+    "Python",
+    "IT service management",
+    "Data analysis",
+    "Technical documentation"
+  ],
+  "experience": [
+    {
+      "role": "Technology Professional",
+      "organization": "Your Organization",
+      "summary": "I help improve digital services, support users, and document technical processes."
+    }
+  ],
+  "education": [
+    {
+      "qualification": "Your Degree or Certification",
+      "institution": "Your Institution"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Simple Personal Digital Twin",
+      "description": "A small RAG-style chatbot that answers questions from an editable personal profile."
+    }
+  ],
+  "interests": [
+    "Artificial intelligence",
+    "Process improvement",
+    "Learning new technologies"
+  ],
+  "contact": {
+    "github": "https://github.com/your-username",
+    "linkedin": "https://www.linkedin.com/in/your-profile"
+  }
+}
